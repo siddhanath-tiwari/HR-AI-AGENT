@@ -29,8 +29,8 @@ python-docx==1.1.0
 
 
 google-api-python-client==2.130.0
-twilio==8.8.1
-whatsapp-api-client==1.0.3
+# twilio==8.8.1
+# whatsapp-api-client==1.0.3
 
 passlib==1.7.4
 bcrypt==4.1.2
